@@ -1,34 +1,46 @@
-# Zuchito Launcher 🚀
+<div align="center">
 
-Hey! Welcome to the official repository for **Zuchito Launcher** — a custom, lightweight Minecraft desktop launcher built from scratch using Tauri and Rust. 
+# 🧊 Zuchito Launcher
+### A sleek, high-performance custom Minecraft launcher built with Tauri and Rust.
 
-I built this because I wanted a faster, cleaner launcher with smooth liquid glass aesthetics, easy account switching, and seamless modpack/asset sharing for me and my friends.
+[Website & Downloads](https://zuchito.netlify.app/) • [Report Bug](https://github.com/Umaru647/Zuchitomod/issues)
 
----
-
-### ✨ What's Inside?
-
-* **⚡ Blazing Fast Performance:** Powered by a Rust backend and Tauri framework, meaning it uses barely any RAM and boots up instantly.
-* **👥 Dual Authentication:** Switch effortlessly between your official Microsoft account and offline/cracked accounts so everyone can play together without hassle.
-* **📦 Modpack & Asset Hub:** Integrated directly with our community web hub to grab mods and assets instantly.
-* **🎨 Liquid Glass UI:** A modern, clean, dark-mode-first interface that actually looks good on your desktop.
+</div>
 
 ---
 
-### 🌐 Links & Community
+## 🧐 About The Project
 
-* **Web Hub / Downloads:** [zuchito.netlify.app](https://zuchito.netlify.app/)
-* Grab the latest installers and custom assets right from the site.
+Hey there! Welcome to the source and hub for **Zuchito Launcher**. 
 
----
-
-### 🛠️ Tech Stack
-
-* **Frontend:** HTML, CSS, JavaScript (Modern Web UI)
-* **Backend:** Rust 🦀
-* **Desktop Framework:** Tauri 
+I got tired of clunky, bloated launchers that eat up system RAM, so I decided to build my own using **Tauri** and **Rust**. It features a modern, clean **liquid glass** UI, seamless offline and Microsoft account switching, and a built-in asset/modpack ecosystem designed for me and my friends to jump straight into the game without any friction.
 
 ---
 
-### 📌 Note
-Feel free to look around the repo, but this project is primarily tailored for my custom community setup. If you run into any weird bugs or issues, let me know!
+## ✨ Core Features
+
+* **⚡ Blazing Fast & Lightweight:** Built on a robust Rust backend with Tauri, ensuring near-instant startup times and minimal resource consumption.
+* **👥 Flexible Authentication:** Supports both official Microsoft account login and offline/cracked accounts so nobody gets left out of the session.
+* **🎨 Liquid Glass UI:** A gorgeous, frosted glass aesthetic featuring dark-mode gradients and smooth motion styling.
+* **📦 Integrated Asset Hub:** Directly synced up with our web distribution network ([zuchito.netlify.app](https://zuchito.netlify.app/)) for easy modpack and custom asset downloads.
+
+---
+
+## 🛠️ Built With
+
+* **Frontend:** HTML5, CSS3, JavaScript / Modern Web UI
+* **Backend Core:** Rust 🦀
+* **Desktop Wrapper:** Tauri Framework
+
+---
+
+## 🌐 Useful Links
+
+* **Official Web & Downloads:** [https://zuchito.netlify.app/](https://zuchito.netlify.app/)
+* **Releases:** Check out the latest installer updates right here on GitHub.
+
+---
+
+<div align="center">
+  <sub>Built with 💻 and ☕ by Zuchit.</sub>
+</div>
